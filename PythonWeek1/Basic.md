@@ -8,3 +8,7 @@ Data Science
 Machine Learning
 Automation
 Software Development
+
+
+
+Python Course – Day 2: Data Types & User Input

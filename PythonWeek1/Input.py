@@ -1,0 +1,6 @@
+name = input("Enter Your Name:")
+print(name)
+age = input("Enter Your Age:")
+print(age)
+city = input("Enter Your City:")
+print(city)
